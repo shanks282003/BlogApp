@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392859250834",
+    "project_id": "blogapp-7328f",
+    "storage_bucket": "blogapp-7328f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392859250834:android:2c03a959f2ad7fa0ea764b",
+        "android_client_info": {
+          "package_name": "com.example.bloglikho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbc3tfx9cfJhVoPqLFC8VHghWgNZDPfuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
